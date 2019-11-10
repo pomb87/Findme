@@ -1,4 +1,4 @@
-package com.pombdev.games.pb.findme;
+package com.pombdev.games.pb.findme.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.widget.ImageButton;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.pombdev.games.pb.findme.R;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
